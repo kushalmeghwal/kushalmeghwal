@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalmeghwal" alt="kushalmeghwal" /></a> </p>
 
-- 🔭 Built with team [Trustify-BackEnd](https://github.com/kushalmeghwal/Trustify-Backend)
+- 🔭 Developed in collaboration with a team: [Trustify-BackEnd](https://github.com/kushalmeghwal/Trustify-Backend)
 
-- 🌱 Currently working on **Node**
+- 🔭 Developed in collaboration with a team: [Trustify-FrontEnd](https://github.com/Mithilesh9944/Trustify_UI)
 
-- 🔭 Built with team  [Trustify-FrontEnd](https://github.com/Mithilesh9944/Trustify_UI)
+- 🌱 Currently working on **[Yapper](https://github.com/kushalmeghwal/yapper-backend) using node.js and Express.js**
 
 - 👨‍💻 All of my mini projects are available at [https://github.com/kushalmeghwal/My-Projects](https://github.com/kushalmeghwal/My-Projects)
 
@@ -17,9 +17,7 @@
 
 - 📫 How to reach me **kushalmeghwal4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19aczZ2mXlp2DRnBFDXlRl4yJ6tYjD4NC/view?usp=sharing](https://drive.google.com/file/d/19aczZ2mXlp2DRnBFDXlRl4yJ6tYjD4NC/view?usp=sharing)
-
-- ⚡ Fact about me **Known for a great sense of humor and a creative mindset, I bring fresh perspectives to problem-solving and foster an enjoyable, collaborative team environment.**
+- ⚡ Fact about me- ** Known for a great sense of humor and a creative mindset, I bring fresh perspectives to problem-solving and foster an enjoyable, collaborative team environment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
