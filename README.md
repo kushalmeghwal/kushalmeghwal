@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalmeghwal" alt="kushalmeghwal" /></a> </p>
 
-- 🔭 I’m currently working on [Trustify-BackEnd](https://github.com/kushalmeghwal/Trustify-Backend)
+- 🔭 Built with team [Trustify-BackEnd](https://github.com/kushalmeghwal/Trustify-Backend)
 
-- 🌱 I’m currently learning **Flutter,Node**
+- 🌱 Currently working on **Node**
 
-- 🔭 I’m currently working on [Trustify-FrontEnd](https://github.com/Mithilesh9944/Trustify_UI)
+- 🔭 Built with team  [Trustify-FrontEnd](https://github.com/Mithilesh9944/Trustify_UI)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kushalmeghwal/My-Projects](https://github.com/kushalmeghwal/My-Projects)
+- 👨‍💻 All of my mini projects are available at [https://github.com/kushalmeghwal/My-Projects](https://github.com/kushalmeghwal/My-Projects)
 
-- 💬 Ask me about **node.js,java,express**
+- 💬 Ask me about **node.js,java,express.js**
 
 - 📫 How to reach me **kushalmeghwal4@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19aczZ2mXlp2DRnBFDXlRl4yJ6tYjD4NC/view?usp=sharing](https://drive.google.com/file/d/19aczZ2mXlp2DRnBFDXlRl4yJ6tYjD4NC/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fact about me **Known for a great sense of humor and a creative mindset, I bring fresh perspectives to problem-solving and foster an enjoyable, collaborative team environment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
